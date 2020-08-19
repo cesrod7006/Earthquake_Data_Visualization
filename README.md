@@ -1,4 +1,4 @@
-# Visualization Earthquake with Leaflet
+# Visualizing Earthquake Data with Leaflet
 
 ## Background
 
@@ -34,5 +34,6 @@ In this project the USGS is interested in building a new set of tools that will 
 
     The USGS also wants to plot a second data set on your map to illustrate the relationship between tectonic plates and seismic activity. So the second data set was pulled to visualize it along side the original set of data. Data on tectonic plates can be found at <https://github.com/fraxen/tectonicplates>.
 
+![More Data](Leaflet/Images/Final_Leaflet_Map.png)
 
 
