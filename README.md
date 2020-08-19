@@ -1,4 +1,4 @@
-# Visualization Earthquake with Leaflet
+# Visualizing Earthquake Data with Leaflet
 
 ## Background
 
